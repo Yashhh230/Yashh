@@ -6,6 +6,132 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Strivers17",
+            "request": "launch",
+            "mainClass": "Strivers17",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Strivers16",
+            "request": "launch",
+            "mainClass": "Strivers16",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Strivers15",
+            "request": "launch",
+            "mainClass": "Strivers15",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Strivers14",
+            "request": "launch",
+            "mainClass": "Strivers14",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Strivers13",
+            "request": "launch",
+            "mainClass": "Strivers13",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Strivers12",
+            "request": "launch",
+            "mainClass": "Strivers12",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Strivers11",
+            "request": "launch",
+            "mainClass": "Strivers11",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Striver10",
+            "request": "launch",
+            "mainClass": "Striver10",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Striver9",
+            "request": "launch",
+            "mainClass": "Striver9",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Striver8",
+            "request": "launch",
+            "mainClass": "Striver8",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Strivers7",
+            "request": "launch",
+            "mainClass": "Strivers7",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Strivers5",
+            "request": "launch",
+            "mainClass": "Strivers5",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Strivers4",
+            "request": "launch",
+            "mainClass": "Strivers4",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Strivers3",
+            "request": "launch",
+            "mainClass": "Strivers3",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Strivers2",
+            "request": "launch",
+            "mainClass": "Strivers2",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Strivers1",
+            "request": "launch",
+            "mainClass": "Strivers1",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Butter1",
+            "request": "launch",
+            "mainClass": "Butter1",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Butter",
+            "request": "launch",
+            "mainClass": "Butter",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
             "name": "One",
             "request": "launch",
             "mainClass": "One",
